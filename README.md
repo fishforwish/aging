@@ -1,5 +1,6 @@
 # aging
-
+What do we want to study?
+- Need to get access to the data first
 
 # Data/Survey
 * CLAS main page: https://www.clsa-elcv.ca/
