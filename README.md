@@ -1,9 +1,11 @@
 # aging
 What do we want to study?
 - Need to get access to the data first
+- aging and cannabis (an upcoming workshop?)  CLSA doesn't have cannabis questionnaires, does it?
+- norms of aging.  What questionnaires can provide this info?
 
 # Data
-* CLAS main page: https://www.clsa-elcv.ca/
+* CLSA main page: https://www.clsa-elcv.ca/
 * CLSA data collection: https://www.clsa-elcv.ca/researchers/data-collection
 * CLSA survey protocol: https://clsa-elcv.ca/doc/511
 * CLSA survey protocol follow up 2014: https://www.clsa-elcv.ca/doc/519
