@@ -4,6 +4,9 @@ What do we want to study?
 - aging and cannabis (an upcoming workshop?)  CLSA doesn't have cannabis questionnaires, does it?
 - norms of aging.  What questionnaires can provide this info?
 
+# Deadlines
+- Feb 12, 20:  CLSA online data appliction submission deadline
+
 # Data
 * CLSA main page: https://www.clsa-elcv.ca/
 * CLSA data collection: https://www.clsa-elcv.ca/researchers/data-collection
