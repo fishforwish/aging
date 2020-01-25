@@ -24,3 +24,4 @@ What do we want to study?
     - 2019 Main wave telephone follow up 1 (May): https://www.clsa-elcv.ca/doc/1235 (or 2015-8?)
     - 2018 (in-home questionnaire follow up): https://www.clsa-elcv.ca/doc/1047 (2018 or 2015-8?)
     - 2018 follow up 1 (data collection site questionnaire): https://www.clsa-elcv.ca/doc/1236 (or 2015-8?)
+＊ WHO Study on Global Ageing and Adult Health (SAGE Wave 1)
