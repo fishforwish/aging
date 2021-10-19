@@ -1,13 +1,4 @@
-# aging
-What do we want to study?
-- Need to get access to the data first
-- Statistical analysis of socioeconomic and demographic correlates of what (e.g., mortality, exercise, health index, social media use)?  A basic proposal to apply for data access? 
-- aging and cannabis (an upcoming workshop?)  CLSA doesn't have cannabis questionnaires, does it?
-- norms of aging.  What questionnaires can provide this info?
-- Vs. Earn's Canadian flu data?
 
-# Deadlines
-- Feb 12, 20:  CLSA online data appliction submission deadline: https://www.clsa-elcv.ca/data-access/data-access-application-process
 
 # Data
 * CLSA main page: https://www.clsa-elcv.ca/
